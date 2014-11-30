@@ -12,11 +12,11 @@ body,td,th {
 	color: #000;
 }
 </style>
-<!EDIT V.1.0.0>
+<!EDIT V.2.0.0>
 <style> 
 div
 { border:8px solid #e6d45a;
-padding:20px 40px; 
+padding:30px 40px; 
 background:#67c8d7;
 width:700px;
 border-radius:45px; }
@@ -830,7 +830,7 @@ border-radius:45px; }
              </select>
              <br />
              </p>
-           <p><font size="+2" face="Angsana New">***หมายเหตุ</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+           <p><font size="+2" face="Angsana New">*หมายเหต*</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
              <textarea name="c8"></textarea>
            </p>
